@@ -87,16 +87,16 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manvirsingh01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manvirsingh01&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=manvirsingh01&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=manvirsingh01&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvirsingh01&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvirsingh01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
 
 ## ✨ Quote
 
-> “**Code is like humor. When you have to explain it, it’s bad.**”  
+> **“Code is like humor. When you have to explain it, it’s bad.”**  
 > — *Cory House*
