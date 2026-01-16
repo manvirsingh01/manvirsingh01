@@ -98,6 +98,15 @@ Android Developer • Full Stack Enthusiast • Clean Architecture Advocate
 
 <img src="https://github-contributor-stats.vercel.app/api?username=manvirsingh01&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
+## 📊 GitHub Highlights
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manvirsingh01&theme=dark&include_all_commits=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=manvirsingh01&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manvirsingh01&layout=compact&theme=dark)
+
+## 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manvirsingh01&theme=react-dark)
+
 ---
 
 <p align="center">
