@@ -94,7 +94,7 @@ Android Developer • Full Stack Enthusiast • Clean Architecture Advocate
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/manvirsingh01">
+  <a href="https://github.com/manvirsingh01/kishan-saathi.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=manvirsingh01&repo=kishan-saathi&theme=dark" />
   </a>
 </p>
