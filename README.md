@@ -107,6 +107,15 @@ Android Developer • Full Stack Enthusiast • Clean Architecture Advocate
 ## 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manvirsingh01&theme=react-dark)
 
+## 📊 GitHub Overview
+
+<img src="https://github-readme-stats.vercel.app/api?username=manvirsingh01&show_icons=true&theme=dark&cache_seconds=86400" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvirsingh01&layout=compact&theme=dark&langs_count=6" />
+
+## 📈 Contribution Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=manvirsingh01&theme=react-dark)
+
 ---
 
 <p align="center">
