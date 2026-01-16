@@ -95,12 +95,10 @@ Android Developer • Full Stack Enthusiast • Clean Architecture Advocate
 
 <p align="center">
   <a href="https://github.com/manvirsingh01">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manvirsingh01&repo=REPO_NAME&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manvirsingh01&repo=kishan-saathi&theme=dark" />
   </a>
 </p>
 
-👉 Replace `REPO_NAME` with your **best project repo**  
-(Add 2–3 projects max for best look)
 
 ---
 
