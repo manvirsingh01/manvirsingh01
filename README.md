@@ -12,11 +12,11 @@ Android Developer • Full Stack Enthusiast • Clean Architecture Advocate
 ## 🚀 About Me
 
 - 📱 Passionate about **Android App Development** using **Kotlin & Jetpack Compose**
-- 🌐 Building **scalable full-stack applications** with clean and maintainable architecture
-- 🔐 Exploring **Backend Systems, Cryptography, APIs & Secure Design**
-- 🤝 Open to **collaborations**, **hackathons**, and **open-source contributions**
-- 💬 Ask me about **Android, Node.js, Express.js, REST APIs, or Software Design**
-- ⚡ Fun Fact: *I love turning real-world problems into simple, usable apps*
+- 🌐 Building **scalable full-stack applications** with clean architecture
+- 🔐 Exploring **Backend Systems, Cryptography & Secure APIs**
+- 🤝 Open to **collaborations, hackathons & open-source**
+- 💬 Ask me about **Android, Node.js, Express, REST APIs**
+- ⚡ Fun Fact: *I turn real-world problems into usable apps*
 
 ---
 
@@ -54,7 +54,7 @@ Android Developer • Full Stack Enthusiast • Clean Architecture Advocate
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=plastic&logo=bootstrap&logoColor=white)
 
-### 🧠 Backend & APIs
+### 🧠 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=plastic&logo=express)
 ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
@@ -67,7 +67,7 @@ Android Developer • Full Stack Enthusiast • Clean Architecture Advocate
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=firebase)
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=plastic&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
@@ -76,13 +76,21 @@ Android Developer • Full Stack Enthusiast • Clean Architecture Advocate
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Stable)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manvirsingh01&theme=dark&hide_border=false&include_all_commits=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=manvirsingh01&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvirsingh01&theme=dark&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manvirsingh01&show_icons=true&theme=dark&cache_seconds=86400" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvirsingh01&layout=compact&theme=dark&langs_count=6" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manvirsingh01&theme=react-dark)
 
 ---
 
@@ -91,30 +99,6 @@ Android Developer • Full Stack Enthusiast • Clean Architecture Advocate
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" />
 </p>
-
----
-
-## 🔝 Top Contributions
-
-<img src="https://github-contributor-stats.vercel.app/api?username=manvirsingh01&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
-## 📊 GitHub Highlights
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manvirsingh01&theme=dark&include_all_commits=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=manvirsingh01&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manvirsingh01&layout=compact&theme=dark)
-
-## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manvirsingh01&theme=react-dark)
-
-## 📊 GitHub Overview
-
-<img src="https://github-readme-stats.vercel.app/api?username=manvirsingh01&show_icons=true&theme=dark&cache_seconds=86400" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvirsingh01&layout=compact&theme=dark&langs_count=6" />
-
-## 📈 Contribution Graph
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=manvirsingh01&theme=react-dark)
 
 ---
 
