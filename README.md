@@ -11,12 +11,12 @@ Android Developer • Full Stack Enthusiast • Clean Architecture Advocate
 
 ## 🚀 About Me
 
-- 📱 Passionate about **Android App Development** using **Kotlin & Jetpack Compose**
+- 📱 Focused on **Android App Development** using **Kotlin & Jetpack Compose**
 - 🌐 Building **scalable full-stack applications** with clean architecture
 - 🔐 Exploring **Backend Systems, Cryptography & Secure APIs**
 - 🤝 Open to **collaborations, hackathons & open-source**
 - 💬 Ask me about **Android, Node.js, Express, REST APIs**
-- ⚡ Fun Fact: *I turn real-world problems into usable apps*
+- ⚡ Fun Fact: *I love solving real-world problems with clean code*
 
 ---
 
@@ -45,14 +45,12 @@ Android Developer • Full Stack Enthusiast • Clean Architecture Advocate
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
 
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=plastic&logo=bootstrap&logoColor=white)
 
 ### 🧠 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
@@ -67,23 +65,12 @@ Android Developer • Full Stack Enthusiast • Clean Architecture Advocate
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=firebase)
 
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=plastic&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white)
-
 ---
 
-## 📊 GitHub Stats (Stable)
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manvirsingh01&show_icons=true&theme=dark&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvirsingh01&layout=compact&theme=dark&langs_count=6" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=manvirsingh01&theme=dark&hide_border=false" />
 </p>
 
 ---
@@ -91,6 +78,29 @@ Android Developer • Full Stack Enthusiast • Clean Architecture Advocate
 ## 📈 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manvirsingh01&theme=react-dark)
+
+---
+
+## 🏆 Top Contributions & Work
+
+- 📱 **Android Apps** using **Jetpack Compose & MVVM**
+- 🔐 **Secure Backend APIs** with **Node.js, Express & JWT**
+- 🌐 **Full Stack Web Applications** (React / Next.js + Express)
+- ☁️ **Firebase-integrated mobile apps**
+- 🧩 Clean Architecture & modular codebases
+
+---
+
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/manvirsingh01">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manvirsingh01&repo=REPO_NAME&theme=dark" />
+  </a>
+</p>
+
+👉 Replace `REPO_NAME` with your **best project repo**  
+(Add 2–3 projects max for best look)
 
 ---
 
