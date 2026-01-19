@@ -109,6 +109,12 @@ Android Developer • Full Stack Enthusiast • Clean Architecture Advocate
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/manvirsingh01/alpha.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manvirsingh01&repo=alpha&theme=dark" />
+  </a>
+</p>
+
 ---
 
 ## ✍️ Developer Quote
