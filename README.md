@@ -24,7 +24,7 @@ Android Developer • Full Stack Enthusiast • Clean Architecture Advocate
 
 <p align="left">
   <a href="https://instagram.com/Itsmanvir01" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/>
+    <img.  src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/manvirsingh01" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/>
