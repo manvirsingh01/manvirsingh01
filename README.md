@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manvir Singh</h1>
+ <h1 align="center">Hi 👋, I'm Manvir Singh</h1>
 <h3 align="center">
 Android Developer • Full Stack Enthusiast • Clean Architecture Advocate
 </h3>
