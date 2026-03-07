@@ -19,79 +19,79 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 class Developer:
     name        = "Manvir Singh"
     role        = "Python Dev · Web Engineer · Cybersecurity Explorer"
-    location    = "India 🇮🇳"
-    philosophy  = "I don't just learn tech — I weaponize it to solve real problems"
+    location    = "India"
+    philosophy  = "I don't just learn tech — I use it to solve real problems"
     currently   = [
-        "Python scripting, automation & backend development 🐍",
-        "Full Stack Web Development — React, Node.js & Next.js 🌐",
-        "Cybersecurity — ethical hacking, secure systems & CTFs 🔐",
-        "Quantum Computing exploration 🔬",
+        "Python scripting, automation & backend development",
+        "Full Stack Web Development — React, Node.js & Next.js",
+        "Cybersecurity — ethical hacking, secure systems & CTFs",
+        "Quantum Computing exploration",
     ]
     previously  = "Android Developer (Kotlin · Jetpack Compose · MVVM)"
     open_to     = "Collaborations · Hackathons · Open Source · Freelance"
 ```
 
-> *"Every new domain is just another attack surface to master."*
+> *"Every new domain is just another problem to master."*
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌾 Kishan Saathi — Full Stack AgriTech Platform
+### Kishan Saathi — Full Stack AgriTech Platform
 > *Empowering Indian farmers with end-to-end digital solutions.*
 
 [![Kishan Saathi](https://github-readme-stats.vercel.app/api/pin/?username=manvirsingh01&repo=kishan-saathi&theme=tokyonight&border_color=00F5FF&border_radius=12)](https://github.com/manvirsingh01/kishan-saathi)
 
-A complete full stack agricultural platform bridging the gap between farmers and technology. From a robust backend API to an intuitive frontend, Kishan Saathi delivers an end-to-end digital ecosystem designed to solve real problems for rural India — crop management, market access, and beyond.
+A full-stack agricultural platform built to close the gap between farmers and technology. From a solid backend API to a clean frontend, Kishan Saathi handles crop management, market access, and more — designed around real problems faced by rural India.
 
 `Node.js` `Express` `React` `MongoDB` `REST API` `Full Stack` `AgriTech`
 
 ---
 
-### 🤖 Alpha — Mixed Stack Experimental Project
-> *Where curiosity meets code — no boundaries, no limits.*
+### Alpha — Mixed Stack Experimental Project
+> *Where curiosity meets code.*
 
 [![Alpha](https://github-readme-stats.vercel.app/api/pin/?username=manvirsingh01&repo=alpha&theme=tokyonight&border_color=7F52FF&border_radius=12)](https://github.com/manvirsingh01/alpha)
 
-Alpha is an experimental, multi-stack project that blends different technologies to explore new ideas. Built without a fixed blueprint — part Android, part backend, part exploration — it represents the spirit of a developer who refuses to stay in one lane.
+Alpha is an experimental, multi-stack project that blends different technologies to explore new ideas. Part Android, part backend, part exploration — built without a fixed blueprint and without staying in one lane.
 
 `Kotlin` `Node.js` `Android` `Express` `Multi-Stack` `Experimental`
 
 ---
 
-### ⚛️ Quantum Computing — Exploring the Frontier
+### Quantum Computing — Exploring the Frontier
 > *Where classical logic ends, quantum begins.*
 
 [![Quantum Computing](https://github-readme-stats.vercel.app/api/pin/?username=manvirsingh01&repo=quantum_computing&theme=tokyonight&border_color=FF6E6E&border_radius=12)](https://github.com/manvirsingh01/quantum_computing)
 
-A deep dive into quantum algorithms, quantum circuits, and computational principles beyond classical computing. Exploring superposition, entanglement, and quantum gates — pushing the boundaries of what a developer can learn and apply.
+A hands-on dive into quantum algorithms, circuits, and computational principles beyond classical computing. Covering superposition, entanglement, and quantum gates — learning in public, one concept at a time.
 
 `Python` `Qiskit` `Quantum Algorithms` `Linear Algebra` `Research`
 
 ---
 
-### 🏆 Hack the Hire — Hackathon Winner Project
+### Hack the Hire — Hackathon Project
 > *48 hours. One problem. Zero compromises.*
 
 [![Hack The Hire](https://github-readme-stats.vercel.app/api/pin/?username=manvirsingh01&repo=hack-the-hire&theme=tokyonight&border_color=FFD700&border_radius=12)](https://github.com/manvirsingh01/hack-the-hire)
 
-Born at a hackathon and built to win. Hack the Hire tackled a real-world hiring problem head-on — ideated, designed, and deployed within a brutal time constraint. A testament to what focused developers can ship when the clock is ticking and the stakes are high.
+Built at a hackathon to tackle a real-world hiring problem — ideated, designed, and deployed under a brutal time constraint. A testament to what focused developers can ship when the clock is ticking.
 
 `Node.js` `Express` `React` `MongoDB` `JWT` `REST API` `Hackathon`
 
 ---
 
-## ⚡ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-### 🚀 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -99,27 +99,27 @@ Born at a hackathon and built to win. Hack the Hire tackled a real-world hiring 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🔐 Cybersecurity
+### Cybersecurity
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🌐 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 Backend & APIs
+### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -129,7 +129,7 @@ Born at a hackathon and built to win. Hack the Hire tackled a real-world hiring 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -145,7 +145,7 @@ Born at a hackathon and built to win. Hack the Hire tackled a real-world hiring 
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -155,7 +155,7 @@ Born at a hackathon and built to win. Hack the Hire tackled a real-world hiring 
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -165,20 +165,20 @@ Born at a hackathon and built to win. Hack the Hire tackled a real-world hiring 
 
 ---
 
-## 💡 What I Build
+## What I Build
 
 | Domain | What I Deliver |
 |---|---|
-| 🐍 **Python Development** | Scripting, automation, backend systems & data tooling |
-| 🔐 **Cybersecurity** | Secure systems, ethical hacking, CTF challenges & hardened APIs |
-| 🌐 **Full Stack Web** | End-to-end apps with React / Next.js + Node.js + Express |
-| ⚛️ **Quantum Computing** | Exploring algorithms & circuits beyond classical computation |
-| 🌾 **AgriTech** | Real-world impact platforms serving rural India (Kishan Saathi) |
-| 🏆 **Hackathon Projects** | Rapid delivery under pressure (Hack the Hire) |
+| **Python Development** | Scripting, automation, backend systems & data tooling |
+| **Cybersecurity** | Secure systems, ethical hacking, CTF challenges & hardened APIs |
+| **Full Stack Web** | End-to-end apps with React / Next.js + Node.js + Express |
+| **Quantum Computing** | Exploring algorithms & circuits beyond classical computation |
+| **AgriTech** | Real-world impact platforms serving rural India (Kishan Saathi) |
+| **Hackathon Projects** | Rapid delivery under pressure (Hack the Hire) |
 
 ---
 
-## ✍️ Dev Quote of the Day
+## Dev Quote of the Day
 
 <div align="center">
 
@@ -191,5 +191,5 @@ Born at a hackathon and built to win. Hack the Hire tackled a real-world hiring 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <div align="center">
-  <sub>⚡ Crafted with passion by <strong>Manvir Singh</strong> — Let's build something incredible together.</sub>
+  <sub>Built with curiosity by <strong>Manvir Singh</strong> — always open to something interesting.</sub>
 </div>
